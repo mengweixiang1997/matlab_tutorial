@@ -1,24 +1,24 @@
 # Matlab Note
 
-	TASK 1: My simple matrix;
+TASK 1: My simple matrix;
 
 ![task](src/weak2/task1.png)
 
 ![task](src/weak2/task1.1.png)
 
-	TASK 2: Reading and displaying images.
+TASK 2: Reading and displaying images.
 
 ![task](src/weak2/task2.png)
 
-	TASK 3: Reading and displaying display different channel of images.
+TASK 3: Reading and displaying display different channel of images.
 
 ![task](src/weak2/task3.png)
 
-	TASK 4: Working on individual colour spaces can allow the manipulation of the image attributes. For example, 
+TASK 4: Working on individual colour spaces can allow the manipulation of the image attributes. For example, 
 
 ![task](src/weak2/task4.png)
 
-	TASK 5:You can further apply thresholds to image information or logical operations on single colour channels just like you could on the entire image. 
+TASK 5:You can further apply thresholds to image information or logical operations on single colour channels just like you could on the entire image. 
 
 ![task](src/weak2/task5.png)
 
