@@ -1,4 +1,4 @@
-#Frame Diﬀerencing
+# Frame Diﬀerencing
 
 ### TASK 1: Frame Diﬀerencing. Download the ’cars.mp4’ video from Moodle. Use an .m ﬁle in Matlab to create a script that reads in the video ﬁle and then, frame by frame, compute the frame diﬀerences as we have seen in class. A pseudo code is provided below.
 
@@ -84,11 +84,10 @@ close(writerObj); % close the video
 ```
 
 ### TASK 3: Convert the .m ﬁle to its own function and try the code with Cars2.avi and Cars3.avi from Moodle. How does it work with he current parameters? Select new ones if necessary.
-
 ![task](src/weak11/2.png)
 
 
-#Chroma Keying
+# Chroma Keying
 TASK 1: Download the ’Flamingo.mp4’ video from Moodle and use it as the foreground video. Download ’BackgroundVideo.avi’ and use it as the background video. 
 Use an .m ﬁle in Matlab to create a code that reads in the video ﬁle and then, frame by frame, thresholds the green background. A pseudo code is provided below.
 
