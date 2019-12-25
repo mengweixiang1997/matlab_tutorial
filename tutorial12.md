@@ -1,4 +1,4 @@
-TASK1: Using the code snippets provided, create your own Object Tracking script using regionprops. 
+### TASK1: Using the code snippets provided, create your own Object Tracking script using regionprops. 
 ```
 clc;clear;close all;
 clc;clear;close all;
@@ -36,7 +36,7 @@ end
 ![task](src/weak12/1-1.png)
 
 
-TASK2: Download ‘Puppet.avi’ and test the code. Find the most suitable morphology values to obtain the cleanest result. 
+### TASK2: Download ‘Puppet.avi’ and test the code. Find the most suitable morphology values to obtain the cleanest result. 
 ```
  code seems like task1
 ```

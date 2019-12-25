@@ -1,6 +1,6 @@
 #Frame Diﬀerencing
 
-TASK 1: Frame Diﬀerencing. Download the ’cars.mp4’ video from Moodle. Use an .m ﬁle in Matlab to create a script that reads in the video ﬁle and then, frame by frame, compute the frame diﬀerences as we have seen in class. A pseudo code is provided below.
+### TASK 1: Frame Diﬀerencing. Download the ’cars.mp4’ video from Moodle. Use an .m ﬁle in Matlab to create a script that reads in the video ﬁle and then, frame by frame, compute the frame diﬀerences as we have seen in class. A pseudo code is provided below.
 
 ```
 clc,clear;close all; %initialize the matlab
@@ -77,13 +77,13 @@ close(writerObj); % close the video
 ![task](src/weak11/1.png)
 
 
-TASK 2: Save the new video to its own video ﬁle using Video Writer.
+### TASK 2: Save the new video to its own video ﬁle using Video Writer.
 
 ```
 % the same code like task1
 ```
 
-TASK 3: Convert the .m ﬁle to its own function and try the code with Cars2.avi and Cars3.avi from Moodle. How does it work with he current parameters? Select new ones if necessary.
+### TASK 3: Convert the .m ﬁle to its own function and try the code with Cars2.avi and Cars3.avi from Moodle. How does it work with he current parameters? Select new ones if necessary.
 
 ![task](src/weak11/2.png)
 
@@ -161,7 +161,7 @@ close(writerObj); % close the video
 
 
 
-TASK 2: Save the new video to its own video ﬁle using Video Writer.
+### TASK 2: Save the new video to its own video ﬁle using Video Writer.
 
 ```
 code seems like taks1
@@ -241,7 +241,7 @@ end
 
 
 
-    TASK 4: Chroma Keying sometimes work with diﬀerent colours (i.e. blue). Download BlueFlower.mp4 and change the code accordingly so it can segment diﬀerent background colours.
+### TASK 4: Chroma Keying sometimes work with diﬀerent colours (i.e. blue). Download BlueFlower.mp4 and change the code accordingly so it can segment diﬀerent background colours.
 
 ```
 clc;clear;close all;
@@ -312,7 +312,7 @@ end
 
 
 
-    TASK 5: Save the new videos to their own video ﬁles using Video Writer.
+### TASK 5: Save the new videos to their own video ﬁles using Video Writer.
 ```
 clc;clear;close all;
 
