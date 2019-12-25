@@ -169,7 +169,7 @@ code seems like taks1
 
 
 
-    TASK 3: Convert the .m ﬁle to its own function and try the code with Flower.mp4 as foreground and and NatureVideo.mp4 as background from Moodle.
+### TASK 3: Convert the .m ﬁle to its own function and try the code with Flower.mp4 as foreground and and NatureVideo.mp4 as background from Moodle.
 ```
 function [] = task3()
 clc;clear;close all;
