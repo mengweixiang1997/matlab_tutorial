@@ -33,7 +33,7 @@ while hasFrame(video)
     hold off;
 end
 ```
-![task](src/weak12/1-1.png 'xxx')
+![task](src/weak12/1-1.png)
 
 
 	 TASK2: Download ‘Puppet.avi’ and test the code. Find the most suitable morphology values to obtain the cleanest result. 
@@ -46,7 +46,7 @@ end
 ```
  code seems like task1
 ```
-![task](src/weak12/2.png 'xxx')
+![task](src/weak12/2.png)
 
 
 	TASK4: Explore the use of regionprops and show regions above 1000px only using the area property
@@ -85,4 +85,4 @@ end
 
 
 ```
-![task](src/weak12/4-1.png 'xxx')
+![task](src/weak12/4-1.png)

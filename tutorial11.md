@@ -74,7 +74,7 @@ end
 
 close(writerObj); % close the video
 ```
-![task](src/weak11/1.png 'xxx')
+![task](src/weak11/1.png)
 
 
 	TASK 2: Save the new video to its own video ﬁle using Video Writer.
@@ -85,7 +85,7 @@ close(writerObj); % close the video
 
 	TASK 3: Convert the .m ﬁle to its own function and try the code with Cars2.avi and Cars3.avi from Moodle. How does it work with he current parameters? Select new ones if necessary.
 
-![task](src/weak11/2.png 'xxx')
+![task](src/weak11/2.png)
 
 
 #Chroma Keying
@@ -157,7 +157,7 @@ end
 close(writerObj); % close the video
 
 ```
-![task](src/weak11/3.png 'xxx')
+![task](src/weak11/3.png)
 
 
 
@@ -306,7 +306,7 @@ while hasFrame(video)
 end
 
 ```
-![task](src/weak11/4.png 'xxx')
+![task](src/weak11/4.png)
 
 
 
@@ -384,5 +384,5 @@ end
 close(writerObj); % close the video
 
 ```
-![task](src/weak11/5.png 'xxx')
+![task](src/weak11/5.png)
 
